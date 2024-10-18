@@ -1,3 +1,8 @@
+---
+title: 'My Simple NEOVIM Starter'
+description: 'The simple neovim setup i use for my own development'
+---
+
 # Neovim Setup Guide
 
 ## Table of Contents
